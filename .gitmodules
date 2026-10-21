@@ -1,0 +1,3 @@
+[submodule "libzr_board"]
+	path = libzr_board
+	url = git@github.com:itgz123/libzr_board.git
